@@ -26,5 +26,5 @@
 │   └── FINAL.md                # Final report
 ├── assets/                     # Image files for reports
 │   └── *.png                   # Corresponding image files
-└── requirements.txt            # Python dependencies - May ignore specific versions
+└── requirements.txt            # Python dependencies, May ignore specific versions
 ```
